@@ -140,4 +140,27 @@
       height="40"
     />
   </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+  </p>
+</td>
+</tr>
+</table>
+
+<b><p align="center">My GitHub Stats</p></b>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadhil-t&&show_icons=true&title_color=1E90FF&text_color=2a9d8f&bg_color=141414" alt="GitHub Stats" />
+</p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aadhil-t" alt="GitHub Trophies" style="color: #1E90FF;" />
+  </a>
+</p>
 
